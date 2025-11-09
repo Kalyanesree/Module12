@@ -7,7 +7,6 @@ To write a Python program that:
 - Displays all inserted elements.
 - Deletes the first element.
 - Displays the updated queue after deletion.
-
 ---
 
 ## Algorithm
