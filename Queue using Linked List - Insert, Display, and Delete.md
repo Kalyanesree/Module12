@@ -1,6 +1,6 @@
-# 🌀 Queue using Linked List - Insert, Display, and Delete
+# EX 12 (A) Queue using Linked List - Insert, Display, and Delete
 
-## 🎯 Aim
+## Aim
 
 To write a Python program that:
 - Inserts elements into a queue.
@@ -10,7 +10,7 @@ To write a Python program that:
 
 ---
 
-## 🧠 Algorithm
+## Algorithm
 
 1. **Create a Queue**:
    - Initialize an empty list named `queue`.
@@ -31,8 +31,24 @@ To write a Python program that:
 ---
 
 ## Program
-Add Code Here
+```
+queue = []
 
+queue.append('a')
+queue.append('b')
+queue.append('c')
+
+print("Queue after elements are inserted:")
+print(queue)
+
+print("Deleting the first element inserted:")
+print(queue.pop(0))
+
+print("Queue after the first elements is deleted:")
+print(queue)
+```
 ## Output
+<img width="886" height="223" alt="image" src="https://github.com/user-attachments/assets/6d201d55-91fb-4236-9861-f8dd5344e5aa" />
 
 ## Result
+  Thus, the python program to insert, display and delete the elements in the queue using linked list has been executed successfully.
