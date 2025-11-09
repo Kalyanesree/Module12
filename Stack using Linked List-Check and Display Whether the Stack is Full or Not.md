@@ -3,7 +3,6 @@
 This Python program demonstrates how to check if a stack (using `LifoQueue` from the `queue` module) is full or not. It uses the `full()` method to determine the stack's status and then displays the appropriate message.
 
 ## Aim
-
 To write a Python program that:
 - Creates a stack with a fixed size.
 - Adds elements to the stack.
