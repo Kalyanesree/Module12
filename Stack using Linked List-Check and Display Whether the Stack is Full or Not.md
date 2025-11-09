@@ -38,7 +38,7 @@ stack.put('a')
 stack.put('b')
 stack.put('c')
 if stack.full():
-    print("Staeck is full")
+    print("Stack is full")
 else:
     print("Stack is not full")
 ```
