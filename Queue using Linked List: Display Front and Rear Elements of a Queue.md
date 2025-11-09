@@ -8,7 +8,6 @@ To write a Python program to:
 - Display the element at the **rear** of the queue.
 
 ---
-
 ## Algorithm
 
 1. **Initialize Queue**:
