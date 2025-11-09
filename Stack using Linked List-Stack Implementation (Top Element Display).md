@@ -8,7 +8,6 @@ The program allows inserting 3 elements from the user and then prints the **top 
 ---
 
 ## Algorithm
-
 1. **Start the program.**
 2. **Initialize** an empty list called `stack` to simulate the stack.
 3. **Repeat 3 times**:
