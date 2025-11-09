@@ -6,7 +6,6 @@ This Python program demonstrates how to:
 3. Print the index and corresponding value of each element in the stack.
 
 ## Aim
-
 To write a Python program that:
 - Creates a stack using a list.
 - Adds elements to the stack.
